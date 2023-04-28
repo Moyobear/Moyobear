@@ -1,4 +1,4 @@
-## <div align="center">Saludos a todos 👋 es un gusto saludarles 😀</div>
+## <div align="center">Bienvenidos 👋 es un gusto saludarles 😀</div>
 
 ![imagen_de_tecnologias](BannerGithub.jpg)
 
