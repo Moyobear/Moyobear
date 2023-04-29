@@ -60,20 +60,22 @@ No suelo mostrar resistencia a los cambios en ningún caso, ya que por mi parte 
 <br/>
 
 ## 📌Proyects
+
 ⚡ `Proyecto Individual` - Fase Académica Henry Bootcamp - `API Pokemon`: SPA (Single Page Application) creada de manera responsive, aplicando la metodología CRUD, utilizando:
 
 - Para el Front End: React, Redux, Axios, CSS-modules.
 - Para el Back End: Node Js, Express Js, Sequelize, PostgreSQL, Nodemon, Morgan, Insomnia.
-![Alt text](LandinPagePokemon.jpg) ![Alt text](About.jpg) ![Alt text](ErrorPage.jpg) ![Alt text](Filters.jpg) ![Alt text](Home.jpg)
-<br/>
+  ![Alt text](LandinPagePokemon.jpg) ![Alt text](About.jpg) ![Alt text](ErrorPage.jpg) ![Alt text](Filters.jpg) ![Alt text](Home.jpg)
+  <br/>
 
 ⚡ `Proyecto Final` - Fase Académica Henry Bootcamp - `Vitality Medical Group`: Proyecto grupal creado en colaboración con 7 desarrolladores más. Se trata de una aplicación que permite la gestión, autogestión y administración de turnos y servicios médicos de manera remota. Permite registrar al usuario, ofrecerle planes médicos y en función del plan seleccionado y pagado, agregar un grupo familiar; facilita la gestión de turnos médicos, seleccionando por la especialidad del galeno, el día y la hora; autogestión de turnos para análisis médicos; pasarela de pagos; mailing automático; autenticación; y la posibilidad de interactuar con un chatbot para orientar al usuario en los servicios que se prestan; reviews entre otras.
 
 Mi rol dentro de este proyecto consistió en liderar el equipo del Back End y ser responsable de la escalabilidad y estabilidad de la aplicación frente a los requerimientos por parte del equipo del Front, aunado a mi responsabilidad además como desarrollador Fullstack.
 
 Su construcción fue basada en la metodología ágil Scrum, y se implementaron las siguientes tecnologías:
-* Para el Front End: Vite, Redux, Material-UI, JavaScript, MercadoPago, Auth0, Axios.
-* Para el Back End: Node Js, Sequelize, Express, PostgreSQL, Morgan, MercadoPago, Auth0, Googleapis.
+
+- Para el Front End: Vite, Redux, Material-UI, JavaScript, MercadoPago, Auth0, Axios.
+- Para el Back End: Node Js, Sequelize, Express, PostgreSQL, Morgan, MercadoPago, Auth0, Googleapis.
 
 `Link para ver la presentación en video del proyecto`: https://www.youtube.com/watch?v=Bpji8kSCtjw
 <br/>
@@ -93,4 +95,3 @@ Su construcción fue basada en la metodología ágil Scrum, y se implementaron l
 </div>
 
 <br/>
-
