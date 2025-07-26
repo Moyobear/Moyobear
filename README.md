@@ -4,13 +4,9 @@
 
 ### Mi nombre es `Jonathan Rodríguez`, soy de Venezuela y estoy aquí para ofrecerles una potente y eficiente solución.
 
-Soy un `Desarrollador Web Fullstack`, formado dentro del perfil de tecnologías PERN, con dominio en JavaScript, React, Node, Express, Python, Django, Flask, Postgres, Git, HTML, CSS, Sequelize, SQL, entre otras; orientado hacia el trabajo en equipo, responsabilidad, productividad y eficiencia. Me mantengo en constante aprendizaje para adquirir nuevas aptitudes y habilidades que me permitan ofrecer soluciones eficientes, versátiles y enmarcadas en la escalabilidad y sostenibilidad. Mi objetivo consiste en formar parte de una organización en el área Tech que me permita potenciar aún más mis habilidades a la vez que mi talento, experiencia y compromiso representen para esa organización un valor agregado.
+Fullstack Developer con 3 años de experiencia en el desarrollo frontend y 10 años de experiencia en la gestión de Talento Humano. Soy apasionado por la tecnología y la innovación, con un amplio conocimiento en diversas herramientas y lenguajes, incluyendo HTML, CSS, JavaScript, SCSS, React, Tailwind, MUI, Chakra UI, Next.js, Redux, NodeJS, SQLite3, Sequelize y PostgreSQL. Además, tengo habilidades en la metodología Scrum, tanto como Scrum Master como desarrollador. Mi experiencia me permite ofrecer soluciones completas y eficaces, desde el diseño y la implementación del frontend hasta la gestión y optimización del backend.
 
-No suelo mostrar resistencia a los cambios en ningún caso, ya que por mi parte he generado mis propios cambios de paradigmas a lo largo de mi vida profesional, permitiéndome esto formar una carrera integral. Vengo del área de Administración y Recursos Humanos, Producción y Edición de Recursos Audiovisuales y finalmente llegué a lo que de pequeño me apasionaba que era la programación. Mis experiencias me han llevado a desarrollarme como líder y manejar con responsabilidad equipos de trabajo durante mucho tiempo.
-
-🧐 Autodidacta por naturaleza y amante del conocimiento, siempre estoy tras el aprendizaje de una nueva tecnología, un nuevo método, un nuevo enfoque. Soy melómano, amante a los animales y fiel creyente que la serie The Big Bang Theory es mejor que Friends!
-
-⚡ Dato Personal: Soy melómano, amante a los animales y fiel creyente que la serie The Big Bang Theory es mejor que Friends !😎
+Estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo profesional y personalmente, y contribuir a proyectos que marquen una diferencia.
 
 <br/>
 
